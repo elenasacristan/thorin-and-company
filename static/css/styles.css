@@ -1,0 +1,9 @@
+.featurette {
+    margin-top: 30px;
+}
+
+li {
+    text-align: center;
+    list-style: none;
+    color: green;
+}
